@@ -1,2 +1,3 @@
-name = input("Enter your name: ")
-print("Hello", name)
+# 0 to 4
+# for i in range(5):
+#     print(i)
