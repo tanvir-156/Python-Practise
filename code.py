@@ -16,6 +16,8 @@
 # name = input("Enter your name: ")
 # print("Hello", name)
 
-print("I am learning Python!")
+# age= input("Enter your age: ")
 
-print("Testing automatic GitHub upload")
+# new_age = int(age)+1
+# print(new_age)
+# print(float(new_age))
